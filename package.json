@@ -1,0 +1,16 @@
+{
+  "author": "Taketoshi Aono(brn) <dobaw20@gmail.com>",
+  "description": "Mocked filesystem.",
+  "repository": {
+    "url": "git@github.com:brn/closure-deps-resolver.git"
+  },
+  "name": "virtual-fs",
+  "version": "0.1.0",
+  "private": false,
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "sinon" : "*"
+  }
+}
